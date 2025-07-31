@@ -1,0 +1,8 @@
+temp.ipynb 
+__pycache__/
+notes.txt
+
+# Ignore temporary Jupyter notebook
+temp.ipynb
+installed_libs.txt
+.
